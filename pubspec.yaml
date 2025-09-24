@@ -1,0 +1,25 @@
+name: accessible_campus_assistant
+description: Accessible Campus Assistant - frontend prototype
+publish_to: "none"
+version: 0.1.0+1
+
+
+environment:
+sdk: ">=2.17.0 <3.0.0"
+
+
+dependencies:
+flutter:
+sdk: flutter
+cupertino_icons: ^1.0.2
+provider: ^6.0.5
+flutter_screenutil: ^5.5.4
+google_fonts: ^3.0.1
+lottie: ^2.3.2
+
+
+flutter:
+uses-material-design: true
+assets:
+- assets/images/splash.png
+- assets/images/campus_map.png
