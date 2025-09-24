@@ -1,0 +1,76 @@
+# Misc
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+linked_*.ds
+unlinked.ds
+coverage/
+coverage.lcov
+
+# Android related
+android/.gradle/
+android/app/build/
+**/android/local.properties
+**/android/key.properties
+
+# iOS/Xcode related
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/build/
+*.xcuserstate
+*.xcworkspace
+*.xcuserdatad
+*.lock
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Windows related
+windows/flutter/ephemeral/
+windows/Runner/GeneratedPluginRegistrant.*
+
+# Linux related
+linux/flutter/ephemeral/
+linux/runner/GeneratedPluginRegistrant.*
+
+# macOS related
+macos/Flutter/ephemeral/
+macos/Runner/GeneratedPluginRegistrant.*
+
+# Coverage
+coverage/
+
+# Firebase / API Keys (if added later)
+*.secret.json
+*.env
+
+# Other
+*.tmp
+*.bak
