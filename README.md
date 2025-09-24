@@ -17,10 +17,3 @@
 - Add Text-to-Speech and Speech-to-Text packages for navigation.
 
 
----
-
-
-# End of scaffold
-
-
-You'll find the app is intentionally UI-focused with placeholder actions so you can connect backend features later. Good luck! Feel free to ask me to push this to a Git repo structure, or I can generate individual files for you to copy.
